@@ -1,16 +1,65 @@
-## Hi there 👋
+# ¡Hola! Soy José Alonso 👋
 
-<!--
-**josealonsogt/josealonsogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desarrollador Multiplataforma | Mobile & Web
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil! Soy un desarrollador apasionado por crear soluciones tanto en entornos móviles (**Android & iOS**) como en la web (**React**). Me encanta transformar ideas en código funcional y limpio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy enfocado en ampliar mi portfolio con proyectos reales y prácticos, tocando desde la persistencia de datos complejos hasta interfaces de usuario modernas.
+
+---
+
+### 🛠️ Tech Stack
+
+Estas son las tecnologías con las que trabajo y disfruto construyendo:
+
+**📱 Desarrollo Móvil**
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+
+**💻 Desarrollo Web**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**🗄️ Backend & Persistencia**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+**⚙️ Herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josealonsogt&show_icons=true&theme=radical&hide_border=true" alt="Jose Alonso GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealonsogt&layout=compact&theme=radical&hide_border=true" alt="Jose Alonso Top Languages" />
+</div>
+
+---
+
+### 🚀 Últimos Proyectos Destacados
+
+* **📱 Apps Android:** Gestión de bases de datos con Room, consumo de APIs REST con Retrofit y juegos de lógica.
+* **🍏 Apps iOS:** Desarrollo nativo con Swift y SwiftUI.
+* **🌐 Webs React:** Aplicaciones SPA modernas desplegadas y funcionales.
+* **☕ Java Enterprise:** Conexiones a bases de datos Oracle mediante JDBC y JPA.
+
+---
+
+### 📫 Contacto
+
+¡Estoy abierto a nuevas oportunidades y colaboraciones!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN_AQUI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](TU_ENLACE_A_TU_PORTFOLIO_AQUI)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](ENLACE_A_TU_CANAL_CUANDO_LO_TENGAS)
