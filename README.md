@@ -69,6 +69,6 @@ Estas son las tecnologías con las que trabajo y disfruto construyendo:
 
 ¡Estoy abierto a nuevas oportunidades y colaboraciones!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josealonsogt/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](TU_ENLACE_A_TU_PORTFOLIO_AQUI)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](ENLACE_A_TU_CANAL_CUANDO_LO_TENGAS)
