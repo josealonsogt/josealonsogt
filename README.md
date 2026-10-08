@@ -27,7 +27,6 @@ Me considero una persona con mucha curiosidad técnica, siempre abierta a aprend
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josealonsogt&show_icons=true&theme=radical&hide_border=true" alt="Jose Alonso GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealonsogt&layout=compact&theme=radical&hide_border=true" alt="Jose Alonso Top Languages" />
 </div>
 
